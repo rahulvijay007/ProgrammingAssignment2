@@ -2,7 +2,6 @@
 ## also stores a value for the inverse of the matrix.
 ## Included are functions to: set and get the value of the matrix;
 ## set and get the inverse of the matrix;
-
 makeCacheMatrix <- function(x = matrix())
 {
   i <- NULL
