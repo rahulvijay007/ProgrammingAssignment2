@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function creates a matrix of class type list and
 ## also stores a value for the inverse of the matrix.
 ## Included are functions to: set and get the value of the matrix;
